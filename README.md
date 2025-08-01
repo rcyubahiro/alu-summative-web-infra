@@ -82,7 +82,7 @@ Follow these steps to set up the project for local development: Step 1: Clone th
 git clone https://github.com/rcyubahiro/
 then move inside it by:
 
-cd FitExplore
+cd alu-summative-web-infra
 
 Step 2: OPEN THE PROJECT: You can simply open the index.html file in your browser as this is a purely front-end application
 
@@ -95,7 +95,7 @@ Web-01 (where nginx is installed, and I configured /etc/nginx/sites_available/de
 
 GitHub Pages:
 
-Application is also alternatively, deployed on github pages as it's only way it can be deployed with HTTPS because load balancing with my servers couldn't work due to the issues with web-02 and lb-01 (Link to deployed app on GitHub Pages: https://stevenalu.github.io/fitexplorer/)
+Application is also alternatively, deployed on github pages as it's only way it can be deployed with HTTPS because load balancing with my servers couldn't work due to the issues with web-02 and lb-01 (Link to deployed app on GitHub Pages:https://mywebsites003.netlify.app/)
 7.2 Domain name
 
 A domain used, was created from DotTech domain where I used to link up with the IP_Address so if you vist my domain you will get the same by visiting via IP_Address.
